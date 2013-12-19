@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=tcp:n7hriu1kql.database.windows.net,1433;Initial Catalog=rexurban_db;Integrated Security=False;Persist Security Info=False;User ID=doladosu;Password=Nucg3fzw;MultipleActiveResultSets=True
