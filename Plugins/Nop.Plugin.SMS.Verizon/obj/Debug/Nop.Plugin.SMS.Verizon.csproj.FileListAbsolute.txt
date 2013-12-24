@@ -1,0 +1,7 @@
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\SMS.Verizon\Description.txt
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\SMS.Verizon\logo.jpg
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.dll
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.pdb
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.csprojResolveAssemblyReference.cache
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.dll
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.pdb

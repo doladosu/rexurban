@@ -1,0 +1,7 @@
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csprojResolveAssemblyReference.cache
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb

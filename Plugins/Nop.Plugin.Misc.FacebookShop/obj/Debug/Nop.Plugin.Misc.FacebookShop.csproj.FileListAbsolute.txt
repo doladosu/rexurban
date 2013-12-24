@@ -1,0 +1,15 @@
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Description.txt
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\logo.gif
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-background.png
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-divider.png
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image-hover.png
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image.png
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-triangle.png
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\styles.css
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Misc.FacebookShop\logo.jpg
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Scripts\jquery-1.7.1.min.js
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.dll
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.pdb
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.csprojResolveAssemblyReference.cache
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.dll
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.pdb

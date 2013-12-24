@@ -133,6 +133,11 @@ namespace Nop.Plugin.Payments.PayPalDirect
             details.IPAddress = _webHelper.GetCurrentIpAddress();
             if (details.IPAddress == "::1")
                 details.IPAddress = "127.0.0.1";
+            if (details.IPAddress.Contains(":"))
+            {
+                var index = details.IPAddress.IndexOf(":", StringComparison.Ordinal);
+                details.IPAddress = details.IPAddress.Remove(index);
+            }
             if (authorizeOnly)
                 details.PaymentAction = PaymentActionCodeType.Authorization;
             else
