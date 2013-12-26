@@ -69,6 +69,15 @@ namespace Nop.Core
                     string lastIp = xff.Split(new char[] { ',' }).FirstOrDefault();
                     if (!String.IsNullOrEmpty(lastIp))
                     {
+                        if (lastIp == "::1")
+                        {
+                            lastIp = "127.0.0.1";
+                        }
+                        if (lastIp.Contains(":"))
+                        {
+                            var index = lastIp.IndexOf(":", StringComparison.Ordinal);
+                            lastIp = lastIp.Remove(index);
+                        }
                         return lastIp;
                     }
                 }
