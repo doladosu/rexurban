@@ -76,7 +76,17 @@ namespace Nop.Core
 
             if (_httpContext.Request.UserHostAddress != null)
             {
-                return _httpContext.Request.UserHostAddress;
+                var ipaddress = _httpContext.Request.UserHostAddress;
+                if (ipaddress == "::1")
+                {
+                    ipaddress = "127.0.0.1";
+                }
+                if (ipaddress.Contains(":"))
+                {
+                    var index = ipaddress.IndexOf(":", StringComparison.Ordinal);
+                    ipaddress = ipaddress.Remove(index);
+                }
+                return ipaddress;
             }
 
             return string.Empty;

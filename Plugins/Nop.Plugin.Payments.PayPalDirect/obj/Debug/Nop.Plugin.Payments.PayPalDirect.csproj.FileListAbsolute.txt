@@ -5,3 +5,4 @@ C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins
 C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
 C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
 C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache

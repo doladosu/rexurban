@@ -41,3 +41,4 @@ C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Libraries\Nop.Core\bin\Debug
 C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Libraries\Nop.Core\obj\Debug\Nop.Core.dll
 C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Libraries\Nop.Core\obj\Debug\Nop.Core.pdb
+C:\Users\damilare.oladosu\Desktop\Projects\Rexurban\Libraries\Nop.Core\obj\Debug\Nop.Core.csprojResolveAssemblyReference.cache
